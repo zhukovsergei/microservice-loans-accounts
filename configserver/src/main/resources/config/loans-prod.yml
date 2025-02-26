@@ -1,0 +1,8 @@
+app:
+  name: My loans prod App
+  description: Пример loans приложения на Spring Boot
+  env: "prod"
+  info: "Main info about app"
+  contacts:
+    name: "Prod name"
+    email: "prod@companyemail.com"

@@ -1,0 +1,8 @@
+app:
+  name: My loans dev App
+  description: Пример loans приложения на Spring Boot
+  env: "dev"
+  info: "Info about app DEV"
+  contacts:
+    name: "My name DEV"
+    email: "{cipher}069011672ac71f164fe71e77a6a86ad82e6dff4862221a14e9ea1fc77b1ca94e5baf0bfcc30cf472a7f4facfc70711c2"

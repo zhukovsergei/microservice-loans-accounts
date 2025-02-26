@@ -1,0 +1,8 @@
+app:
+  name: My Awesome prod App
+  description: Пример приложения на Spring Boot
+  env: "prod"
+  info: "Main info about app"
+  contacts:
+    name: "Prod name"
+    email: "prod@companyemail.com"
